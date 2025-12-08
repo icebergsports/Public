@@ -1,0 +1,2 @@
+Here are the previous Valora Predictions 
+Accuracy: 68%
